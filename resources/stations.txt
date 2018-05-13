@@ -1,0 +1,13 @@
+aberporth, armagh, ballypatrick, bradford, braemar, camborne, cambridge, cardiff, chivenor, cwmystwyth,
+dunstaffnage, durham, eastbourne, eskdalemuir, heathrow, hurn, lerwick, leuchars, lowestoft, manston,
+nairn, newtonrigg, oxford, paisley, ringway, rossonwye, shawbury, sheffield, southampton, stornoway,
+suttonbonington, tiree, valley, waddington, whitby,   wickairport, yeovilton
+
+
+37 stations
+
+URL:
+https://www.metoffice.gov.uk/public/weather/climate-historic
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/{station}data.txt
+
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/leucharsdata.txt
